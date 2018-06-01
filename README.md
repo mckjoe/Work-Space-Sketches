@@ -1,6 +1,6 @@
 # The Space
 
-___________________________
+
 ## Description
 
   A website built for The Space, a new communal workspace company that is opening its doors soon in Portland. The space is a new coworking startup company.  Coworking is the idea of people who share similar interests or values that work for different employers working together in a safe and inviting environment, allowing for collaboration and socialization for people who would otherwise probably be working independently.    
@@ -15,7 +15,6 @@ ___________________________
 
  5. The space does not want to cater to only tech, but to be attractive to anyone and everyone including artists of all mediums and anyone who feels like the could benefit from a more cooperative and social working environment.
 
- _____________________________
 
 ## Process
 
