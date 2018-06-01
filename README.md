@@ -29,3 +29,5 @@
 2:29 - At this point I'm still working on my mobile views in sketch, but am adding this to my readme so I can make a commit.  I have 3 more views left for mobile then I'll get to start with tablet and desktop.  
 
 3:34 - I am now done with all of my mobile views and with adding prototyping to all of them.  Now onto tablet homepage and then desktop homepage.
+
+4:00 - I just finished doing the layouts for the tablet and desktop versions. I am now done with the layout portion for today and will now go back and tidy things up and get screen shots of my views for my README.
