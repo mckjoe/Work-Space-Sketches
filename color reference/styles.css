@@ -1,0 +1,22 @@
+.box {
+  height: 100px;
+  width: 100px;
+  float: left;
+  color: tan;
+}
+
+#celtic {
+  background-color: #113322;
+}
+
+#kidnapper {
+  background-color: #ddeecc;
+}
+
+#pale-oyster {
+    background-color: #998877;
+}
+
+#brownish-gray {
+  background-color: #665544; 
+}
